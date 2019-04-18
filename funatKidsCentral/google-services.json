@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331252810245",
+    "firebase_url": "https://storybook-funatkidscentral.firebaseio.com",
+    "project_id": "storybook-funatkidscentral",
+    "storage_bucket": "storybook-funatkidscentral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331252810245:android:b0b2f14896142fee",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.funatkidscentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331252810245-5db1mdbv9mk01248g35e8feqntsq1igd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNjGOUqG1GoOucvy6N4hXocAzFB04ogqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331252810245-5db1mdbv9mk01248g35e8feqntsq1igd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
