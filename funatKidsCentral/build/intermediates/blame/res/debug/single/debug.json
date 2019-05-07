@@ -36,12 +36,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\LittlefoxViewLibrary-1.0.14.aar\\4ff7760eca8bd709c14cb752d9811c43\\res\\drawable-nodpi-v4\\thumbnail_download.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_popup_l_press.png.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_popup_l_press.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_layout_grid_fade.xml.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\layout_grid_fade.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_popup_l_press.png.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_popup_l_press.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_com_facebook_close.png.flat",
@@ -168,12 +168,12 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_popup_r.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_32.jpg.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\thumbnail_32.jpg"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
@@ -240,20 +240,20 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-mdpi\\com_facebook_button_send_icon.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_download.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\LittlefoxViewLibrary-1.0.14.aar\\4ff7760eca8bd709c14cb752d9811c43\\res\\drawable-nodpi-v4\\tablet_thumbnail_download.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_wave_scale.xml.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\wave_scale.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_download.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\LittlefoxViewLibrary-1.0.14.aar\\4ff7760eca8bd709c14cb752d9811c43\\res\\drawable-nodpi-v4\\tablet_thumbnail_download.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_divider_material.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_com_facebook_button_icon.png.flat",
@@ -261,7 +261,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_check.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\tablet_thumbnail_check.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\tablet_thumbnail_check.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_all_normal.png.flat",
@@ -272,12 +272,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_play_down.png.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_play_down.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_play_down.png.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_play_down.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -292,12 +292,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_ripple_color.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_popup_appraisal_tw.png.flat",
@@ -308,16 +308,16 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon_08.png.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\icon_08.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\812ef9b3706f6e9fdde863c2379cb024\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_cpb_error_state_selector.xml.flat",
@@ -388,16 +388,16 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\introduction_bg.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_zoom_exit.xml.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\zoom_exit.xml"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_zoom_exit.xml.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\zoom_exit.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
@@ -437,7 +437,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_app_box.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_app_box.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_app_box.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -468,24 +468,24 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\btn_replay_normal.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_top_ctrl_bg.9.png.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\player_top_ctrl_bg.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3e8ec795fd36e402e188a6efa68237f5\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_top_ctrl_bg.9.png.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\player_top_ctrl_bg.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -508,12 +508,12 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\thumbnail_44.jpg"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_bottom_btn_bg.png.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\player_bottom_btn_bg.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_bottom_btn_bg.png.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\player_bottom_btn_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_messenger_bubble_large_blue.png.flat",
@@ -548,12 +548,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3e8ec795fd36e402e188a6efa68237f5\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -584,12 +584,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\layout\\messenger_button_send_blue_small.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_selector_right_popup_btn.xml.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable\\selector_right_popup_btn.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -660,12 +660,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -673,7 +673,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_lock.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\tablet_thumbnail_lock.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\tablet_thumbnail_lock.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -729,7 +729,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_thumbnaill_recycler_view_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnaill_recycler_view_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnaill_recycler_view_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_intro_main.xml.flat",
@@ -780,32 +780,32 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\footer_logo_cn.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_com_facebook_button_send_icon.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab02_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab02_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab02_on.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_com_facebook_button_send_icon.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_selector_full_popup_btn.xml.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable\\selector_full_popup_btn.xml"
     },
     {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab02_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab02_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab02_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -820,12 +820,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
@@ -840,24 +840,24 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\icon_story.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\shake.xml"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\anim\\shake.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_selector_left_popup_btn.xml.flat",
@@ -869,7 +869,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_payment.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_payment.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_payment.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
@@ -1020,12 +1020,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_text_down.png.flat",
@@ -1081,7 +1081,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_appraisal.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_appraisal.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_appraisal.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_com_facebook_tooltip_black_topnub.png.flat",
@@ -1104,12 +1104,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gnb_down_btn.png.flat",
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\gnb_down_btn.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_58.jpg.flat",
@@ -1140,12 +1140,12 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\popup_full_rect.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_player_seekbar_thumb.xml.flat",
@@ -1196,24 +1196,24 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_49.jpg.flat",
-        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\thumbnail_49.jpg"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_49.jpg.flat",
+        "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\thumbnail_49.jpg"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_04.jpg.flat",
@@ -1228,12 +1228,12 @@
         "source": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\src\\main\\res\\drawable-nodpi\\thumbnail_02.jpg"
     },
     {
-        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
@@ -1261,7 +1261,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_thumbnail_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnail_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnail_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1345,7 +1345,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_all_payment.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_all_payment.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_all_payment.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
@@ -1489,7 +1489,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_app_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\app_bg.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\app_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1529,11 +1529,11 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_check.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_check.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_check.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_credit.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_credit.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_credit.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1645,11 +1645,11 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_iac.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_iac.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_iac.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_recommand_app_scrollview_layout.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_recommand_app_scrollview_layout.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_recommand_app_scrollview_layout.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_popup_payment_tw.png.flat",
@@ -1709,7 +1709,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_icon_appinstall_en.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\icon_appinstall_en.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\icon_appinstall_en.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1749,7 +1749,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_appraisal.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_appraisal.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_appraisal.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1809,7 +1809,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_com_facebook_tooltip_blue_bottomnub.png.flat",
@@ -1833,7 +1833,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_bg_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\bg_promotion.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\bg_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messenger_bubble_small_white.png.flat",
@@ -1857,7 +1857,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab03_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab03_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab03_on.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
@@ -1889,7 +1889,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_download_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_download_bg.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_download_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_writer_close_btn.png.flat",
@@ -2033,7 +2033,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_close_appraisal.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_close_appraisal.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_close_appraisal.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon_02.png.flat",
@@ -2049,7 +2049,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab01_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab01_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab01_on.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_com_facebook_button_send_icon.png.flat",
@@ -2141,7 +2141,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_ok_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_ok_promotion.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_ok_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2185,7 +2185,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab01_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab01_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab01_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
@@ -2285,7 +2285,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_thumbnaill_recycler_view_tablet_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnaill_recycler_view_tablet_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnaill_recycler_view_tablet_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_messenger_button_send_round_shadow.png.flat",
@@ -2357,7 +2357,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_bg.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_introduction_people_item_tablet.xml.flat",
@@ -2581,7 +2581,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_lock.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_lock.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_lock.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_menu_line.png.flat",
@@ -2593,7 +2593,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_check_border.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_check_border.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_check_border.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_ripple_color.xml.flat",
@@ -2705,7 +2705,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code_result_list_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code_result_list_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code_result_list_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_character05.png.flat",
@@ -2729,7 +2729,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_recommand_app_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_recommand_app_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_recommand_app_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2765,7 +2765,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_icon_appinstall_kr.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\icon_appinstall_kr.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\icon_appinstall_kr.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_messenger_button_send_round_shadow.png.flat",
@@ -2889,7 +2889,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_thumbnail_item_tablet.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnail_item_tablet.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnail_item_tablet.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -2901,7 +2901,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_onel_payment.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_onel_payment.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_onel_payment.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_footer_logo_ios.png.flat",
@@ -3161,7 +3161,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab03_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab03_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab03_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_writer_scroll_bar.9.png.flat",
@@ -3393,7 +3393,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code_result_list.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code_result_list.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code_result_list.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_writer_tex.png.flat",
@@ -3533,7 +3533,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_close_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_close_promotion.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_close_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\FunatKidsCentral_Templete\\funatKidsCentral\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
